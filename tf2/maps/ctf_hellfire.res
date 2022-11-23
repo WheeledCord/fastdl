@@ -28,8 +28,8 @@
 	"models/weapons/c_models/c_street_sweeper.phy"		"file"
 	"models/weapons/c_models/c_street_sweeper.sw.vtx"	"file"
 	"models/weapons/c_models/c_street_sweeper.vvd"		"file"
-	"models/weapons/c_models/c_scattergun/c_street_sweeper.vmt"	"file"
-	"models/weapons/c_models/c_scattergun/c_street_sweeper.vtf" 	"file"
+	"models/weapons/c_models/c_street_sweeper/c_street_sweeper.vmt"	"file"
+	"models/weapons/c_models/c_street_sweeper/c_street_sweeper.vtf" 	"file"
 
 
 
