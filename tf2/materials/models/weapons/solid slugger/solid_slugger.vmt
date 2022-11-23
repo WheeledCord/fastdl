@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/weapons/solid slugger/solid_slugger.vtf"
+	
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "5"	
+	"$lightwarptexture" "models\lightwarps\weapon_lightwarp"
+	"$phongfresnelranges"	"[.5 .5 3]"
+	"$halflambert" "1"
+
+	"$tempvar" "0"
+
+	"$basephongexponent" "15"
+	"$basephongboost" "5"
+
+	"$commadd_phongexponent" "30"
+	"$commadd_phongboost" 	"22.5"
+	"$commweapon"		"0"
+
+	"$basemapalphaphongmask" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"			
+	"$rimlightexponent" "20"	
+	"$rimlightboost" ".25"
+}
