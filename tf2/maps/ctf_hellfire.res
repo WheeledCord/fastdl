@@ -62,9 +62,10 @@
 	"models/weapons/c_models/c_takedown.dx80.vtx"			"file"
 	"models/weapons/c_models/c_takedown.dx90.vtx"			"file"
 	"models/weapons/c_models/c_takedown.mdl"			"file"
+	"models/weapons/c_models/c_takedown.mdl"			"file"
 	"models/weapons/c_models/c_takedown.phy"			"file"
 	"models/weapons/c_models/c_takedown.sw.vtx"			"file"
 	"models/weapons/c_models/c_takedown.vvd"			"file"
 	"materials/models/player/items/scout/0x03470561/takedown/takedown.vmt"		"file"
-	"materials/models/player/items/scout/0x03470561/takedown/takedown_color.vmt"	"file"
+	"materials/models/player/items/scout/0x03470561/takedown/takedown_color.vtf"	"file"
 }
