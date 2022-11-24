@@ -69,14 +69,14 @@
 	"materials/models/player/items/scout/0x03470561/takedown/takedown_color.vtf"	"file"
 	"materials/models/player/items/scout/0x03470561/takedown/takedown.vmt"		"file"
 
-	"models\weapons\c_models\c_crowbar/c_crowbar.dx80.vtx"		"file"
-	"models\weapons\c_models\c_crowbar/c_crowbar.dx90.vtx"		"file"
-	"models\weapons\c_models\c_crowbar/c_crowbar.mdl"		"file"	
-	"models\weapons\c_models\c_crowbar/c_crowbar.phy"		"file"
-	"models\weapons\c_models\c_crowbar/c_crowbar.sw.vtx"		"file"
-	"models\weapons\c_models\c_crowbar/c_crowbar.vvd"		"file"
+	"models/weapons/c_models/c_crowbar/c_crowbar.dx80.vtx"		"file"
+	"models/weapons/c_models/c_crowbar/c_crowbar.dx90.vtx"		"file"
+	"models/weapons/c_models/c_crowbar/c_crowbar.mdl"		"file"	
+	"models/weapons/c_models/c_crowbar/c_crowbar.phy"		"file"
+	"models/weapons/c_models/c_crowbar/c_crowbar.sw.vtx"		"file"
+	"models/weapons/c_models/c_crowbar/c_crowbar.vvd"		"file"
 
-	"materials\models\weapons\c_items/c_crowbar.vmt"		"file"
-	"materials\models\weapons\c_items/c_crowbar.vtf"		"file"
-	"models\weapons\c_models\c_crowbar/c_crowbar_n.vtf"		"file"
+	"materials/models/weapons/c_items/c_crowbar.vmt"		"file"
+	"materials/models/weapons/c_items/c_crowbar.vtf"		"file"
+	"models/weapons/c_models/c_crowbar/c_crowbar_n.vtf"		"file"
 }
