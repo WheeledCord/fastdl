@@ -59,4 +59,15 @@
 	"materials/models/workshop/weapons/c_models/c_colt_pistol/c_colt_pistol.vmt"		"file"
 	"materials/models/workshop/weapons/c_models/c_colt_pistol/c_colt_pistol.vtf"		"file"
 	"materials/models/workshop/weapons/c_models/c_colt_pistol/c_colt_pistol_normal.vtf"	"file"
+
+	"models/weapons/c_models/c_messenger.dx80.vtx"		"file"
+	"models/weapons/c_models/c_messenger.dx90.vtx"		"file"
+	"models/weapons/c_models/c_messenger.mdl"		"file"
+	"models/weapons/c_models/c_messenger.phy"		"file"
+	"models/weapons/c_models/c_messenger.sw.vtx"		"file"
+	"models/weapons/c_models/c_messenger.vvd"		"file"
+	"materials/models/workshop/weapons/w_flamethrower/firesol_blu.vmt"		"file"
+	"materials/models/workshop/weapons/w_flamethrower/firesol_blu.vtf"			"file"
+	"materials/models/workshop/weapons/w_flamethrower/firesol_red.vmt"		"file"
+	"materials/models/workshop/weapons/w_flamethrower/firesol_red.vtf"		"file"
 }
