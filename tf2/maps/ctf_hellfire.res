@@ -50,4 +50,10 @@
 	"models/weapons/c_models/c_gambit/c_gambit.vvd"		"file"
 	"materials/models/weapons/c_models/c_failed_pistol/c_failed_pistol.vmt"	"file"
 	"materials/models/weapons/c_models/c_failed_pistol/c_failed_pistol.vtf"	"file"
+	"models/weapons/c_models/c_desertrose/c_desertrose.dx80.vtx"	"file"
+	"models/weapons/c_models/c_desertrose/c_desertrose.dx90.vtx"	"file"
+	"models/weapons/c_models/c_desertrose/c_desertrose.mdl"		"file"
+	"models/weapons/c_models/c_desertrose/c_desertrose.phy"		"file"
+	"models/weapons/c_models/c_desertrose/c_desertrose.sw.vtx"	"file"
+	"models/weapons/c_models/c_desertrose/c_desertrose.vvd"		"file"
 }
