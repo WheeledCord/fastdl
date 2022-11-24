@@ -56,4 +56,7 @@
 	"models/weapons/c_models/c_desertrose/c_desertrose.phy"		"file"
 	"models/weapons/c_models/c_desertrose/c_desertrose.sw.vtx"	"file"
 	"models/weapons/c_models/c_desertrose/c_desertrose.vvd"		"file"
+	"materials/models/workshop/weapons/c_models/c_colt_pistol/c_colt_pistol.vmt"		"file"
+	"materials/models/workshop/weapons/c_models/c_colt_pistol/c_colt_pistol.vtf"		"file"
+	"materials/models/workshop/weapons/c_models/c_colt_pistol/c_colt_pistol_normal.vtf"	"file"
 }
