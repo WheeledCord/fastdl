@@ -31,8 +31,28 @@
 	"materials/models/weapons/c_models/c_scattergun/c_street_sweeper.vmt"	"file"
 	"materials/models/weapons/c_models/c_scattergun/c_street_sweeper.vtf" 	"file"
 
+	"models/weapons/c_models/c_solid_slugger/c_solid_slugger.dx80.vtx"	"file"
+	"models/weapons/c_models/c_solid_slugger/c_solid_slugger.dx90.vtx"	"file"
+	"models/weapons/c_models/c_solid_slugger/c_solid_slugger.mdl"	"file"
+	"models/weapons/c_models/c_solid_slugger/c_solid_slugger.phy"	"file"
+	"models/weapons/c_models/c_solid_slugger/c_solid_slugger.sw.vtx"	"file"
+	"models/weapons/c_models/c_solid_slugger/c_solid_slugger.vvd"	"file"
 
-
-
-
+	"models/weapons/c_models/c_solid_slugger/c_solid_slugger.dx80.vtx"	"file"
+	"models/weapons/c_models/c_solid_slugger/c_solid_slugger.dx90.vtx"	"file"
+	"models/weapons/c_models/c_solid_slugger/c_solid_slugger.mdl"	"file"
+	"models/weapons/c_models/c_solid_slugger/c_solid_slugger.phy"	"file"
+	"models/weapons/c_models/c_solid_slugger/c_solid_slugger.sw.vtx"	"file"
+	"models/weapons/c_models/c_solid_slugger/c_solid_slugger.vvd"	"file"
+	"materials/models/weapons/solid slugger/solid_slugger.vmt"		"file"
+	"materials/models/weapons/solid slugger/solid_slugger.vtf"		"file"
+	
+	"models/weapons/c_models/c_gambit/c_gambit.dx80.vtx"		"file"
+	"models/weapons/c_models/c_gambit/c_gambit.dx90.vtx"		"file"
+	"models/weapons/c_models/c_gambit/c_gambit.mdl"		"file"
+	"models/weapons/c_models/c_gambit/c_gambit.phy"		"file"
+	"models/weapons/c_models/c_gambit/c_gambit.sw.vtx"		"file"
+	"models/weapons/c_models/c_gambit/c_gambit.vvd"		"file"
+	"materials/models/weapons/c_models/c_failed_pistol/c_failed_pistol.vmt"	"file"
+	"materials/models/weapons/c_models/c_failed_pistol/c_failed_pistol.vtf"	"file"
 }
