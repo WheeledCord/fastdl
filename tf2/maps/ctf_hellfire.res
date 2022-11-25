@@ -127,4 +127,13 @@
 	"materials/models/weapons/c_items/c_hw_crossbow.vtf"	"file"
 	"materials/models/weapons/c_items/w_bolt.vmt"	"file"
 	"materials/models/weapons/c_items/w_bolt.vtf"	"file"
+	"models/weapons/c_models/c_firemace/c_firemace.dx80.vtx"	"file"
+	"models/weapons/c_models/c_firemace/c_firemace.dx90.vtx"	"file"
+	"models/weapons/c_models/c_firemace/c_firemace.mdl"	"file"
+	"models/weapons/c_models/c_firemace/c_firemace.phy"	"file"
+	"models/weapons/c_models/c_firemace/c_firemace.sw.vtx"	"file"
+	"models/weapons/c_models/c_firemace/c_firemace.vvd"	"file"
+	"materials/models/weapons/c_items/c_firemace.vmt"	"file"
+	"materials/models/weapons/c_items/c_firemace.vtf"	"file"
+
 }
