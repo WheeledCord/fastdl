@@ -88,5 +88,16 @@
 	"materials/models/weapons/c_items/crl.tga"		"file"
 	"materials/models/weapons/c_items/crl.vmt"		"file"
 	"materials/models/weapons/c_items/crl.vtf"		"file"
+	"models/weapons/c_models/c_propain/c_propain.dx80.vtx"	"file"
+	"models/weapons/c_models/c_propain/c_propain.dx90.vtx"	"file"
+	"models/weapons/c_models/c_propain/c_propain.mdl"	"file"
+	"models/weapons/c_models/c_propain/c_propain.phy"	"file"
+	"models/weapons/c_models/c_propain/c_propain.sw.vtx"	"file"
+	"models/weapons/c_models/c_propain/c_propain.vvd"	"file"
+	"models/weapons/c_models/c_propain/c_propain.vvd"	"file"
 
+	"materials\models\weapons\c_models\c_pain\pain.vtf"	"file"
+	"materials\models\weapons\c_models\c_pain\pain_blue.vtf"	"file"
+	"materials\models\weapons\c_models\c_pain\pro_pain.vmt"	"file"
+	"materials\models\weapons\c_models\c_pain\pro_pain_blue.vmt"	"file"
 }
