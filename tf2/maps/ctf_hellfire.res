@@ -123,8 +123,8 @@
 	"models/weapons/c_models/c_crossbow/c_crossbow.phy"	"file"
 	"models/weapons/c_models/c_crossbow/c_crossbow.sw.vtx"	"file"
 	"models/weapons/c_models/c_crossbow/c_crossbow.vvd"	"file"
-	"materials\models\weapons\c_items\c_hw_crossbow.vmt"	"file"
-	"materials\models\weapons\c_items\c_hw_crossbow.vtf"	"file"
-	"materials\models\weapons\c_items\w_bolt.vmt"	"file"
-	"materials\models\weapons\c_items\w_bolt.vtf"	"file"
+	"materials/models/weapons/c_items/c_hw_crossbow.vmt"	"file"
+	"materials/models/weapons/c_items/c_hw_crossbow.vtf"	"file"
+	"materials/models/weapons/c_items/w_bolt.vmt"	"file"
+	"materials/models/weapons/c_items/w_bolt.vtf"	"file"
 }
