@@ -1,0 +1,42 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\c_items\c_boilerbuss"
+	"$bumpmap"     "models\weapons\c_items\c_boilerbuss_bump"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "3.8"
+	"$lightwarptexture" "models\weapons\c_items/c_ambassador_lightwarp"
+	"$phongfresnelranges"	"[1 2 3]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "10"	
+	"$rimlightboost" "0.4"
+
+	"$ambientocclusion" "1"
+
+	"$glowcolor" "1"
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"Proxies"
+	{
+		"weapon_invis"
+		{
+		}
+		"ModelGlowColor"
+		{
+			"resultVar" "$glowcolor"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$selfillumtint"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$color2"
+		}
+	}
+}

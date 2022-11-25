@@ -106,6 +106,15 @@
 	"models/weapons/c_models/c_steelb/c_steelb.vvd"		"file"
 	"materials/models/weapons/c_items/c_defender.vmt"	"file"
 	"materials/models/weapons/c_items/c_defender.vtf"	"file"
-	
-
+	"models/weapons/c_models/c_boilerbuss/c_boilerbuss.mdl"	"file"
+	"models/weapons/c_models/c_boilerbuss/c_boilerbuss.dx80.vtx"	"file"
+	"models/weapons/c_models/c_boilerbuss/c_boilerbuss.dx90.vtx"	"file"
+	"models/weapons/c_models/c_boilerbuss/c_boilerbuss.phy"	"file"
+	"models/weapons/c_models/c_boilerbuss/c_boilerbuss.sw.vtx"	"file"
+	"models/weapons/c_models/c_boilerbuss/c_boilerbuss.vvd"	"file"
+	"materials/models/weapons/c_items/c_boilerbuss.vmt"	"file"
+	"materials/models/weapons/c_items/c_boilerbuss.vtf"	"file"
+	"materials/models/weapons/c_items/c_boilerbuss_blu.vtf"	"file"
+	"materials/models/weapons/c_items/c_boilerbuss_blu.vmt"	"file"
+	"materials/models/weapons/c_items/c_c_boilerbuss_bump.vtf"	"file"
 }
