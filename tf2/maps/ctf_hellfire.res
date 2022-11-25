@@ -77,4 +77,16 @@
 	"materials/models/weapons/c_items/c_crowbar.vmt"		"file"
 	"materials/models/weapons/c_items/c_crowbar.vtf"		"file"
 	"materials/models/weapons/c_items/c_crowbar_n.vtf"		"file"
+	"models/weapons/c_models/c_follow/c_follow.dx80.vtx"		"file"
+	"models/weapons/c_models/c_follow/c_follow.dx90.vtx"		"file"
+	"models/weapons/c_models/c_follow/c_follow.phy"		"file"
+	"models/weapons/c_models/c_follow/c_follow.sw.vtx"		"file"
+	"models/weapons/c_models/c_follow/c_follow.mdl"		"file"
+	"models/weapons/c_models/c_follow/c_follow.vvd"			"file"
+	"materials/models/weapons/c_items/computer_radar.vmt"			"file"
+	"materials/models/weapons/c_items/computer_radar.vtf"			"file"
+	"materials/models/weapons/c_items/crl.tga"		"file"
+	"materials/models/weapons/c_items/crl.vmt"		"file"
+	"materials/models/weapons/c_items/crl.vtf"		"file"
+
 }
