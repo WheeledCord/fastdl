@@ -94,10 +94,18 @@
 	"models/weapons/c_models/c_propain/c_propain.phy"	"file"
 	"models/weapons/c_models/c_propain/c_propain.sw.vtx"	"file"
 	"models/weapons/c_models/c_propain/c_propain.vvd"	"file"
-	"models/weapons/c_models/c_propain/c_propain.vvd"	"file"
+	"materials/models/weapons/c_models/c_pain/pain.vtf"	"file"
+	"materials/models/weapons/c_models/c_pain/pain_blue.vtf"	"file"
+	"materials/models/weapons/c_models/c_pain/pro_pain.vmt"	"file"
+	"materials/models/weapons/c_models/c_pain/pro_pain_blue.vmt"	"file"
+	"models/weapons/c_models/c_steelb/c_steelb.dx80.vtx"	"file"
+	"models/weapons/c_models/c_steelb/c_steelb.dx90.vtx"	"file"
+	"models/weapons/c_models/c_steelb/c_steelb.mdl"	"file"
+	"models/weapons/c_models/c_steelb/c_steelb.phy"	"file"
+	"models/weapons/c_models/c_steelb/c_steelb.sw.vtx"	"file"
+	"models/weapons/c_models/c_steelb/c_steelb.vvd"		"file"
+	"materials/models/weapons/c_items/c_defender.vmt"	"file"
+	"materials/models/weapons/c_items/c_defender.vtf"	"file"
+	
 
-	"materials\models\weapons\c_models\c_pain\pain.vtf"	"file"
-	"materials\models\weapons\c_models\c_pain\pain_blue.vtf"	"file"
-	"materials\models\weapons\c_models\c_pain\pro_pain.vmt"	"file"
-	"materials\models\weapons\c_models\c_pain\pro_pain_blue.vmt"	"file"
 }
