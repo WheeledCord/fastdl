@@ -142,10 +142,10 @@
 	"models/weapons/c_models/c_banhammer/c_banhammer.sw.vtx"	"file"
 	"models/weapons/c_models/c_banhammer/c_banhammer.vvd"		"file"
 	"models/weapons/c_models/c_banhammer/c_banhammer.xbox.vtx"		"file"
-	"materials\models\weapons\w_fireaxe/gabesbanhammer.vmt"		"file"
-	"materials\models\weapons\w_fireaxe/gabesbanhammer.vtf"		"file"
-	"materials\models\weapons\w_fireaxe/gabesbanhammer.vmt"		"file"
-	"materials\models\weapons\w_fireaxe/hammernormal.vtf"		"file"
-	"materials\models\weapons\w_fireaxe/w_fireaxe.vmt"		"file"
+	"materials/models/weapons/w_fireaxe/gabesbanhammer.vmt"		"file"
+	"materials/models/weapons/w_fireaxe/gabesbanhammer.vtf"		"file"
+	"materials/models/weapons/w_fireaxe/gabesbanhammer.vmt"		"file"
+	"materials/models/weapons/w_fireaxe/hammernormal.vtf"		"file"
+	"materials/models/weapons/w_fireaxe/w_fireaxe.vmt"		"file"
 
 }
