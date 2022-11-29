@@ -155,5 +155,14 @@
 	"models/weapons/c_models/c_peacekeeper/c_peacekeeper.vvd"		"file"
 	"materials/models/weapons/c_items/c_peacekeeper.vmt"		"file"
 	"materials/models/weapons/c_items/c_peacekeeper.vtf"		"file"
-
+	"models/weapons/c_models/c_celtickite/c_celtickite.dx80.vtx"	"file"
+	"models/weapons/c_models/c_celtickite/c_celtickite.dx90.vtx"	"file"
+	"models/weapons/c_models/c_celtickite/c_celtickite.mdl"	"file"
+	"models/weapons/c_models/c_celtickite/c_celtickite.phy"	"file"
+	"models/weapons/c_models/c_celtickite/c_celtickite.sw.vtx"	"file"
+	"models/weapons/c_models/c_celtickite/c_celtickite.vvd"	"file"
+	"materials/models/weapons/c_items/shield_blue.vmt"	"file"
+	"materials/models/weapons/c_items/shield_blue.vtf"	"file"
+	"materials/models/weapons/c_items/shield.vmt"	"file"
+	"materials/models/weapons/c_items/shield.vtf"	"file"
 }
