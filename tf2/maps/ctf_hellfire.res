@@ -147,5 +147,13 @@
 	"materials/models/weapons/w_fireaxe/gabesbanhammer.vmt"		"file"
 	"materials/models/weapons/w_fireaxe/hammernormal.vtf"		"file"
 	"materials/models/weapons/w_fireaxe/w_fireaxe.vmt"		"file"
+	"models/weapons/c_models/c_peacekeeper/c_peacekeeper.dx80.vtx"		"file"
+	"models/weapons/c_models/c_peacekeeper/c_peacekeeper.dx90.vtx"		"file"
+	"models/weapons/c_models/c_peacekeeper/c_peacekeeper.mdl"		"file"
+	"models/weapons/c_models/c_peacekeeper/c_peacekeeper.phy"		"file"
+	"models/weapons/c_models/c_peacekeeper/c_peacekeeper.sw.vtx"		"file"
+	"models/weapons/c_models/c_peacekeeper/c_peacekeeper.vvd"		"file"
+	"materials/models/weapons/c_items/c_peacekeeper.vmt"		"file"
+	"materials/models/weapons/c_items/c_peacekeeper.vtf"		"file"
 
 }
