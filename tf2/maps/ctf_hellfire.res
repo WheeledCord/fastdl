@@ -171,6 +171,7 @@
 	"models/weapons/c_models/c_balbomb/c_balbomb.phy"		"file"
 	"models/weapons/c_models/c_balbomb/c_balbomb.sw.vtx"		"file"
 	"models/weapons/c_models/c_balbomb/c_balbomb.vvd"		"file"
-	"materials/models/player/items/demo/0x02298c9c/stickylaunch/stickylaunch.vtf"
-	"materials/models/player/items/demo/0x02298c9c/stickylaunch/stickylaunch.vmt"
+	"materials/models/player/items/demo/0x02298c9c/stickylaunch/stickylaunch.vtf"	"file"
+	"materials/models/player/items/demo/0x02298c9c/stickylaunch/stickylaunch.vmt"	"file"
+
 }
