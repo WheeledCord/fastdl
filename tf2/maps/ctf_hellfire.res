@@ -173,5 +173,12 @@
 	"models/weapons/c_models/c_balbomb/c_balbomb.vvd"		"file"
 	"materials/models/player/items/demo/0x02298c9c/stickylaunch/stickylaunch.vtf"	"file"
 	"materials/models/player/items/demo/0x02298c9c/stickylaunch/stickylaunch.vmt"	"file"
+	"models/weapons/c_models/c_dragon/c_dragon.dx80.vtx"	"file"
+	"models/weapons/c_models/c_dragon/c_dragon.dx90.vtx"	"file"
+	"models/weapons/c_models/c_dragon/c_dragon.mdl"	"file"
+	"models/weapons/c_models/c_dragon/c_dragon.sw.vtx"	"file"
+	"models/weapons/c_models/c_dragon/c_dragon.vvd"	"file"
+	"materials/models/weapons/c_items/dragon.vmt"		"file"
+	"materials/models/weapons/c_items/dragon.vtf"		"file"
 
 }
