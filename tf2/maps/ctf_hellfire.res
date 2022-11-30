@@ -206,5 +206,16 @@
 	"models/weapons/c_models/c_meemgun/c_meemgun.phy"	"file"
 	"models/weapons/c_models/c_meemgun/c_meemgun.sw.vtx"	"file"
 	"models/weapons/c_models/c_meemgun/c_meemgun.vvd"	"file"
+	"models/workshop/weapons/c_models/c_meatgrinder/c_meatgrinder.dx80.vtx"	"file"
+	"models/workshop/weapons/c_models/c_meatgrinder/c_meatgrinder.dx90.vtx"	"file"
+	"models/workshop/weapons/c_models/c_meatgrinder/c_meatgrinder.mdl"	"file"
+	"models/workshop/weapons/c_models/c_meatgrinder/c_meatgrinder.vvd"	"file"
+	"models/workshop/weapons/c_models/c_meatgrinder/c_meatgrinder.sw.vtx"	"file"
+	"materials/models/weapons/c_items/c_grinder/grinder_blu.vmt"	"file"
+	"materials/models/weapons/c_items/c_grinder/grinder_blu_d.vtf"	"file"
+	"materials/models/weapons/c_items/c_grinder/grinder_n.vtf"	"file"
+	"materials/models/weapons/c_items/c_grinder/grinder_red.vmt"	"file"
+	"materials/models/weapons/c_items/c_grinder/grinder_red_d.vtf"	"file"
+	"materials/models/weapons/c_items/c_grinder/grinder_si.vtf"	"file"
 
 }
