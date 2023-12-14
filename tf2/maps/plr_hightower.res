@@ -5,5 +5,4 @@
 	"/models/robo_all_mvm_canteen/robo_all_mvm_canteen.mdl"		"file"
 	"/models/robo_all_mvm_canteen/robo_all_mvm_canteen.sw.vtx"	"file"
 	"/models/robo_all_mvm_canteen/robo_all_mvm_canteen.vvd"		"file"
-	"/tf/materials/arrival/slender.vmt.bz2"				"file"
 }
