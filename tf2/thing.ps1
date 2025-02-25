@@ -13,6 +13,9 @@ $header = @"
 //Model Files (Download and Precache)
 "@
 
+# Delete .ztmp files
+Get-ChildItem -Path "$basePath\models", "$basePath\materials" -Recurse -File -Filter "*.ztmp" | Remove-Item -Force
+
 # Normalize path separator for regex compatibility
 $escapedBasePath = [regex]::Escape($basePath + "\")
 
