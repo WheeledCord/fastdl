@@ -13,17 +13,20 @@ $header = @"
 //Model Files (Download and Precache)
 "@
 
-# Delete .ztmp files
-Get-ChildItem -Path "$basePath\models", "$basePath\materials" -Recurse -File -Filter "*.ztmp" | Remove-Item -Force
+# Force deletion of .ztmp files to prevent ghost files
+Get-ChildItem -Path "$basePath\models", "$basePath\materials" -Recurse -File -Filter "*.ztmp" | Remove-Item -Force -ErrorAction SilentlyContinue
 
-# Normalize path separator for regex compatibility
+# Wait a moment to ensure deletions are processed
+Start-Sleep -Seconds 1
+
+# Refresh file list and exclude deleted files
 $escapedBasePath = [regex]::Escape($basePath + "\")
 
-# Find all files in /models or /materials
 $files = Get-ChildItem -Path "$basePath\models", "$basePath\materials" -Recurse -File |
+         Where-Object { Test-Path $_.FullName } |  # Ensures files still exist
          ForEach-Object { $_.FullName -replace "^$escapedBasePath", "" -replace "\\", "/" }
 
-# Write to file
+# Write fresh file list
 $header | Set-Content -Path $outputFile
 $files | Add-Content -Path $outputFile
 
